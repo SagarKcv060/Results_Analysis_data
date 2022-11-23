@@ -10,7 +10,7 @@ select * from results.sem_vi;
 select * from results.sem_vii;
 select * from results.sem_viii;
 
--- Top 12 students from semester IV having SGPA > 12
+-- Top 12 students from semester IV having SGPA > 9.5
  
 SELECT 
     *
